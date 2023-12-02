@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+}
+.nav{
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+    box-shadow: 2px 1px 2px #eee;
+}
+#logo{
+    height: 17px;
+    width: 129px;
+    padding-left: 100px;
+    padding-top:  20px; ;
+    
+}
+.menu{
+    display: flex;
+}
+.menu-iner{
+    padding: 20px;
+    color: grey;
+    font-size: 15px;
+    cursor: pointer;
+}
+h2{
+    font-size: 45px;
+    font-weight: 500px;
+    color: #424242;
+}
+h3{
+    font-weight: 350px;
+    font-size: 20px;
+    color: #424242;
+}
+
+#sign{
+    background-color: #387ed1;
+    display: inline;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
